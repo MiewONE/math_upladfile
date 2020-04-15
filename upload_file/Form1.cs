@@ -19,7 +19,7 @@ namespace upload_file
     public partial class Form1 : Form
     {
         string[] files = null;
-        string pwd = "my5341tutm",id="212062";
+        string pwd = "",id="";
         IWebDriver dv = new ChromeDriver();
         //WebDriverWait wait = new WebDriverWait(dv, new TimeSpan(0, 0, 5));
         public Form1()

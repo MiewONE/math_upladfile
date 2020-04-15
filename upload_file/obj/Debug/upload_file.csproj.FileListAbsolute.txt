@@ -1,0 +1,13 @@
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Debug\upload_file.exe.config
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Debug\upload_file.exe
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Debug\upload_file.pdb
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Debug\WebDriver.dll
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Debug\WebDriver.xml
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Debug\upload_file.csprojAssemblyReference.cache
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Debug\upload_file.Properties.Resources.resources
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Debug\upload_file.csproj.GenerateResource.cache
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Debug\upload_file.csproj.CopyComplete
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Debug\upload_file.exe
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Debug\upload_file.pdb
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Debug\upload_file.Form1.resources

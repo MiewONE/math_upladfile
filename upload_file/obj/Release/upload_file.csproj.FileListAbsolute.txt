@@ -1,0 +1,12 @@
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Release\upload_file.exe.config
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Release\upload_file.exe
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Release\upload_file.pdb
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Release\WebDriver.dll
+C:\Users\dlsrk\source\repos\upload_file\upload_file\bin\Release\WebDriver.xml
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Release\upload_file.Form1.resources
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Release\upload_file.Properties.Resources.resources
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Release\upload_file.csproj.GenerateResource.cache
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Release\upload_file.csproj.CopyComplete
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Release\upload_file.exe
+C:\Users\dlsrk\source\repos\upload_file\upload_file\obj\Release\upload_file.pdb
